@@ -109,7 +109,7 @@ Consider the following operation definition::
       }
     }
 
-This query is defined statically but if you want to vary parameters, for example to search also for "mechanic" or "nurse, you can write your own "parameter source" in Python.
+This query is defined statically but if you want to vary parameters, for example to search also for "mechanic" or "nurse", you can write your own "parameter source" in Python.
 
 First, define the name of your parameter source in the operation definition::
 
